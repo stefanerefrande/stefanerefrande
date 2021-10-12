@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hey there!
 
-<!--
-**stefanerefrande/stefanerefrande** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- :computer: I’m a technology lover
+- 🌐 World Citizen
+- :computer: Backend Developer
+- :muscle: Woman in tech
+- Pronouns: She/Her
+- You can reach me here: <br>
+<a href="https://github.com/stefanerefrande"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
+	<a href="https://www.linkedin.com/in/stefanerefrande/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
+  <a href="mailto:stefanerefrande@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
 
-Here are some ideas to get you started:
+[![Programming Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=stefanerefrande)](https://github.com/stefanerefrande/github-readme-stats)]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
