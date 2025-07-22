@@ -4,5 +4,6 @@
 - :computer: Backend Developer
 - 🤖 AI enthusiast
 - :muscle: Woman in tech
+- Medium: https://medium.com/@stefanerefrande
 
 
